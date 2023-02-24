@@ -1,9 +1,10 @@
 # Technology-Architecture-2022
 Architecture and high level summary of today's technology
 
-# Data
-* Genie - Salesforce
+## Data
+* [Salesforce Genie](docs/SalesforceGenie2022.md)
 
-# Infrastructure & Platform  
+## AI
 
-# AI
+## Infrastructure & Platform  
+
