@@ -1,6 +1,6 @@
-# Technology-Architecture-2023
+# Technology & Architecture in 2023
 
-Today's technology and architecture pushing the boundaries
+Technology and architecture pushing the boundaries
 
 ## AI
 
