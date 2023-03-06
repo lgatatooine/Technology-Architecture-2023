@@ -2,15 +2,16 @@
 
 Today's technology and architecture pushing the boundaries
 
+## AI
 
 ## Data
 * Unified Data Infrastructure 
 * Real-time data platform
 * Right Databases For The Job
 
-## AI
+## Infrastructure
 
-## Infrastructure & Platform  
+## Platform  
 
 
 
