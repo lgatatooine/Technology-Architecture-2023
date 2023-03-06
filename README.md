@@ -5,7 +5,7 @@ Technology and architecture pushing the boundaries
 ## AI
 
 ## Data
-* Unified Data Infrastructure 
+* Comprehensive Data Infrastructure 
 * Real-time data platform
 * Right Databases For The Job
 
