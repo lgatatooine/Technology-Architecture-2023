@@ -5,7 +5,7 @@ Technology and architecture pushing the boundaries
 ## AI
 
 ## Data
-* Comprehensive Data Infrastructure 
+* [Reference Data Platform Architecture](docs/DataPlatformArchitecture.md)
 * Real-time data platform
 * Right Databases For The Job
 
