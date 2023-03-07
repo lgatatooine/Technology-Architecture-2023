@@ -1,5 +1,11 @@
-Reference architectures of data platforms and infrastructure from my experience and learning. 
+## Notable data platform architecture today
 
-# Comprehensive Data Infrastrucure
-A reference data infrastructure provides the capabilities to analyze data, enable data insight, and drive data-powered products. 
+This document captures a collection of the architecture of data platforms and infrastructure that I have built or learned. 
+* Comprehensive data infrastructure 
+* 
+
+### Comprehensive Data Infrastrucure
+A reference data infrastructure provides the complex capabilities for demanding enterprises to analyze data, enable data insight, and drive data-powered products. 
+
+
 ![Comprehensive Data Infrastructure](/img/ComprehensiveDataInfrastructureQ12023.png)
