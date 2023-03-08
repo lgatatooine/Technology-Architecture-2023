@@ -18,3 +18,5 @@ A data lake is a centralized repository to store all structured, semi-structured
 
 ### Data Lakehouse Architecture 
 A data lakehouse is an open data management architecture that combines the flexibility, cost-efficiency, and scale of data lakes with the data management and ACID transactions of data warehouses, enabling business intelligence (BI) and machine learning (ML) on all data.
+
+![Data Lakehouse Architecture](/img/DataLakehouseArchitectureQ12023.png)
