@@ -14,7 +14,7 @@ Technology and architecture pushing the boundaries
 ## Platform  
 
 ## Security
-* Cloud Cybersecurity Reference Architecture 
+* Cloud Security Reference Architecture 
 
 
 When we have a great design, users may not notice the complexity because it feels like the feature is just working as intended. 
