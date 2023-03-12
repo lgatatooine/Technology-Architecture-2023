@@ -19,6 +19,8 @@ Static and Dynamic security testing of CI/CD system.
 
 ### Public Cloud Reference Matrix
 
-|  | AWS | Azure | GCP | On-Prem |
-| :---:   | :---: | :---: | :---: | :---: |
-| [SIEM](https://en.wikipedia.org/wiki/Security_information_and_event_management) | [Security Hub + OpenSearch](https://aws.amazon.com/blogs/security/how-to-use-aws-security-hub-and-amazon-opensearch-service-for-siem/)   | [Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/overview) | [Chronicle SIEM](https://chronicle.security/suite/siem/)  | Splunk, Sumo Logic, Elastic, more |
+|  | AWS | Azure | GCP | Multi-/Hybrid- Cloud |
+| :---: | :---: | :---: | :---: | :---: |
+| [SIEM](https://en.wikipedia.org/wiki/Security_information_and_event_management) | [AWS Security Hub + OpenSearch](https://aws.amazon.com/blogs/security/how-to-use-aws-security-hub-and-amazon-opensearch-service-for-siem/)   | [Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/overview) | [Chronicle SIEM](https://chronicle.security/suite/siem/)  | [Splunk](https://www.splunk.com/en_us/products/enterprise-security.html), Sumo Logic, Elastic, more |
+| [DDoS](https://en.wikipedia.org/wiki/Denial-of-service_attack) Protection | [AWS Shield Advanced (L3~7)](https://aws.amazon.com/shield/) | [Azure DDoS Protection](https://azure.microsoft.com/en-us/products/ddos-protection) | [Google Cloud Armor](https://cloud.google.com/armor/docs/advanced-network-ddos) | Cloudflare, Fortinet, Akamai, F5, more |
+| Network Firewall | :---: | :---: | :---: | :---: |
