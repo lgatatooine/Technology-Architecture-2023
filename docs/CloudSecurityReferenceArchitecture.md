@@ -1,6 +1,7 @@
 ## Cloud Security Reference Architecture
 * Automated Security Testing
 * Layered Security Approach
+* Public Cloud Security Tools Reference Matrix
 
 ### Security Principles
 * Build a layered security approach (defense-in-depth)
@@ -17,7 +18,7 @@ Static and Dynamic security testing of CI/CD system.
 ### Layered Security Approach
 ![Layered Security](/img/LayeredSecurityApproach.png)
 
-### Public Cloud Reference Matrix
+### Public Cloud Security Tools Reference Matrix
 
 |  | AWS | Azure | GCP | Multi-/Hybrid- Cloud |
 | :---: | :---: | :---: | :---: | :---: |
