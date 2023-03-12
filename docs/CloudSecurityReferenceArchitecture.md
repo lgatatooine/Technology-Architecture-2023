@@ -1,7 +1,7 @@
 ## Cloud Security Reference Architecture
-* Automated Security Testing
-* Layered Security Approach
-* Public Cloud Security Tools Reference Matrix
+* [Automated Security Testing](#security-principles)
+* [Layered Security Approach](#automated-security-testing)
+* [Public Cloud Security Tools Reference Matrix](#public-cloud-security-tools-reference-matrix)
 
 ### Security Principles
 * Build a layered security approach (defense-in-depth)
