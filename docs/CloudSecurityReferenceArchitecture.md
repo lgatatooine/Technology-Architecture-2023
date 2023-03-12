@@ -16,3 +16,9 @@ Static and Dynamic security testing of CI/CD system.
 
 ### Layered Security Approach
 ![Layered Security](/img/LayeredSecurityApproach.png)
+
+### Public Cloud Reference Matrix
+
+|  | AWS | Azure | GCP | On-Prem |
+| :---:   | :---: | :---: | :---: | :---: |
+| [SIEM](https://en.wikipedia.org/wiki/Security_information_and_event_management) | [Security Hub + OpenSearch](https://aws.amazon.com/blogs/security/how-to-use-aws-security-hub-and-amazon-opensearch-service-for-siem/)   | [Microsoft Sentinel](https://learn.microsoft.com/en-us/azure/sentinel/overview) | [Chronicle SIEM](https://chronicle.security/suite/siem/)  | Splunk, Sumo Logic, Elastic, more |
